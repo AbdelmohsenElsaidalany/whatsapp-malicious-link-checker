@@ -1,0 +1,1 @@
+# whatsapp-malicious-link-checker
